@@ -2,17 +2,14 @@
 ### Tasked with creating handlebars template to display added town names separated by a comma in the input field
 
 <p align='center'>
-    <a href='https://github.com/rdrachenberg/students/blob/master/app.js'>
+    <a href='https://github.com/rdrachenberg/list-towns/blob/master/js/app.js'>
         <img src='https://img.shields.io/badge/JavaScript-22%25-brightgreen?style=plastic&logo=javascript'>
     </a>
-    <a href='https://github.com/rdrachenberg/students/blob/master/index.html'> 
+    <a href='https://github.com/rdrachenberg/list-towns/blob/master/01.list-towns.html'> 
         <img src='https://img.shields.io/badge/HTML-25.7%25-orange?style=plastic&logo=HTML5'>
     </a> 
-    <a href='https://github.com/rdrachenberg/students/blob/master/styles.css'>
+    <a href='https://github.com/rdrachenberg/list-towns/blob/master/css/style.css'>
         <img src='https://img.shields.io/badge/CSS-53.325-purple?style=plascit&logo=CSS3&logoColor=blue'>
-    </a>
-    <a href='https://baas.kinvey.com/appdata/kid_SyIdiNmWP/students'>
-        <img src='https://img.shields.io/badge/Database-Kinvey-red?style=plastic&logo=Firebase'>
     </a>
     <a href='https://github.com/rdrachenberg'>
         <img src='https://img.shields.io/badge/Made%20by-rDrachenberg-success?style=plastic&logo=visual-studio-code&logoColor=blue'>
