@@ -1,0 +1,17 @@
+{
+  "name": "list-towns",
+  "version": "1.0.0",
+  "description": "display user inputs with handlebars rendered list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "handlebars"
+  ],
+  "author": "Ryan Drachenberg",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.6"
+  }
+}
