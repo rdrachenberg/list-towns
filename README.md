@@ -25,6 +25,15 @@
     <img src="./img/list-towns.png">
 </p>
 
+### Instructions:
+    1. create empty folder.
+
+    2. open up your terminal in that directory(folder).
+
+    3. In your terminal type: "git clone https://github.com/rdrachenberg/list-towns.git"
+
+    4. Install needed node modules by typing: "npm i"
+
 ## File Structure:
     📦list-towns
     ┣ 📂css
